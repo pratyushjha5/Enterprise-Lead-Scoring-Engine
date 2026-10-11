@@ -17,4 +17,5 @@ An automated lead qualification and routing system built on the Salesforce platf
 
 ## Dashboard Preview
 ![Lead Scoring Dashboard](Screenshot%202026-10-12%20021557.png)
-(Screenshot%2026-10-12%020650.png)
+## Action Execution
+![Success Notification](Screenshot%202026-10-12%20020650.png)
